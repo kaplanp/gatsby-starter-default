@@ -1,12 +1,16 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://gatsby-starter-krisp.netlify.com/">
-    <img alt="Gatsby" src="https://user-images.githubusercontent.com/21126965/61477411-cc62b200-a9ac-11e9-9f54-be17395992b0.png" width = "150" />
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
-  <br/>
-  A Minimal, Clean, Responsive Starter built with Gatsby
 </p>
+<h1 align="center">
+  Gatsby's default starter
+</h1>
 
+Peter Kicks off his project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+
+_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
@@ -14,15 +18,16 @@
 
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
-    ```sh
-    gatsby new your-site-name https://github.com/mohanmonu777/gatsby-starter-krisp.git
+    ```shell
+    # create a new Gatsby site using the default starter
+    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
     ```
 
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
-    ```sh
+    ```shell
     cd my-default-starter/
     gatsby develop
     ```
@@ -89,3 +94,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
+
+<!-- AUTO-GENERATED-CONTENT:END -->
